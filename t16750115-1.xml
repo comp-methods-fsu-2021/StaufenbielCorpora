@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16750115-1">
+               <interp inst="t16750115-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16750115-1" type="year" value="1675"></interp>
+               <interp inst="t16750115-1" type="uri" value="sessionsPapers/16750115"></interp>
+               <interp inst="t16750115-1" type="date" value="16750115"></interp>
+               <join result="criminalCharge" id="t16750115-1-off3-c1" targOrder="Y" targets="t16750115-1-defend1 t16750115-1-off3 t16750115-1-verdict4"></join>
+         
+               <p>The first of these was a 
+               <persName id="t16750115-1-defend1" type="defendantName">Woman<interp inst="t16750115-1-defend1" type="gender" value="female"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16750115-1-defloc1">St. Martins in the fields</placeName>
+                  <interp inst="t16750115-1-defloc1" type="placeName" value="St. Martins in the fields"></interp>
+                  <interp inst="t16750115-1-defloc1" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16750115-1-defend1 t16750115-1-defloc1"></join>, a <rs id="t16750115-1-deflabel2" type="occupation">Married Woman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16750115-1-defend1 t16750115-1-deflabel2"></join>, and one whose Husband is accounted a Person of good repute, and credit, and with him she lived, to the seeming of those that know them, contentedly and well, it pleased God (whose Judgments are unaccountable to his Creatures) so for to suffer the Devil to prevail upon this poor wretch, as to cause her to perpetrate that horrid action whereof she was not indicted.</p>
+               <p>The fact upon the Evidence given into the Court appeared to be thus; this woman had (not long before the fact) been <rs id="t16750115-1-off3" type="offenceDescription">
+                     <interp inst="t16750115-1-off3" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16750115-1-off3" type="offenceSubcategory" value="infanticide"></interp>
+               delivered of the Child, which she after Murthered
+            </rs>, and was then but newly Siting up after her labour, she was observed for some time before to be some what discomposed and distempered in her mind; the ground of which is Variously reported but not certainely known, but was so far taken notice off, that those that were about her were feareful at any time to leave her alone, and it had been well if they had continued true to their own feares</p>
+               <p>The day whereon this tragedy was acted, this unnatural Mother Orders her Nurse to make her a Sea-Coal fire in her Chamber, and to blow it up well pretending she was cold; this being done, she sends the aforesaid Nurse upon some arrand out of doores; and <xptr type="pageFacsimile" doc="16750115004"></xptr>then takes her little Infant in her hands, and having first opened a place in the top of the fire, by removing some of the Cools, she cruelly thrust the poor Innocent into it, and then threw the Coals upon it, where it was burned to Death; A little while after the Nurse returning and perceiving some of the Child cloths upon the fire, snatching to take them off, caught hold of some part of the Child that was not then consumed, whereupon Surprized with the horror of the sight, she shreikt out and askt who had done it, which the Cruel Mother presently confessed to be her self, and was thereupon taken into the hands of Justice, and at this Sessions tryed for her Life, as I have before told you, she was at last Cleared by the Jury who juded her not to be of sound mind before, and at the time of doing the fact, and therefore brought her in <rs id="t16750115-1-verdict4" type="verdictDescription">
+                     <interp inst="t16750115-1-verdict4" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16750115-1-verdict4" type="verdictSubcategory" value="nonComposMentis"></interp>
+               not Guilty
+            </rs>.</p>
+            </div1>

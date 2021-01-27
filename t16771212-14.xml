@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16771212-14">
+               <interp inst="t16771212-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t16771212-14" type="year" value="1677"></interp>
+               <interp inst="t16771212-14" type="uri" value="sessionsPapers/16771212"></interp>
+               <interp inst="t16771212-14" type="date" value="16771212"></interp>
+               <join result="criminalCharge" id="t16771212-14-off46-c23" targOrder="Y" targets="t16771212-14-defend23 t16771212-14-off46 NOVERDICTR"></join>
+               <join result="criminalCharge" id="t16771212-14-off47-c24" targOrder="Y" targets="t16771212-14-defend24 t16771212-14-off47 t16771212-14-verdict48"></join>
+         
+               <p>After this a 
+               <persName id="t16771212-14-defend23" type="defendantName">woman<interp inst="t16771212-14-defend23" type="gender" value="female"></interp>
+                  </persName>
+             was tried for the most unnatural Crime of <rs id="t16771212-14-off46" type="offenceDescription">
+                     <interp inst="t16771212-14-off46" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16771212-14-off46" type="offenceSubcategory" value="infanticide"></interp>
+               Murdering her Bastard-child
+            </rs>, and a 
+               <persName id="t16771212-14-defend24" type="defendantName">man<interp inst="t16771212-14-defend24" type="gender" value="male"></interp>
+                  </persName>
+             for the prodigious Trick of <rs id="t16771212-14-off47" type="offenceDescription">
+                     <interp inst="t16771212-14-off47" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16771212-14-off47" type="offenceSubcategory" value="other"></interp>
+               killing almost Threescore Sheep onely to steal Fourscore pounds of Tallow; a piece of Villany never till within these few years practised
+            </rs>: He <rs id="t16771212-14-verdict48" type="verdictDescription">
+                     <interp inst="t16771212-14-verdict48" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16771212-14-verdict48" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded guilty
+            </rs>, and was <rs id="t16771212-14-punish49" type="punishmentDescription">
+                     <interp inst="t16771212-14-punish49" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16771212-14-punish49" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16771212-14-defend24 t16771212-14-punish49"></join>
+               Burnt in the hand
+            </rs>.</p>
+            </div1>

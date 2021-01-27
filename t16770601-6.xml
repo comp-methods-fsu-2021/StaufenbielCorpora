@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16770601-6">
+               <interp inst="t16770601-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16770601-6" type="year" value="1677"></interp>
+               <interp inst="t16770601-6" type="uri" value="sessionsPapers/16770601"></interp>
+               <interp inst="t16770601-6" type="date" value="16770601"></interp>
+               <join result="criminalCharge" id="t16770601-6-off24-c9" targOrder="Y" targets="t16770601-6-defend9 t16770601-6-off24 t16770601-6-verdict26"></join>
+               <join result="criminalCharge" id="t16770601-6-off24-c10" targOrder="Y" targets="t16770601-6-defend10 t16770601-6-off24 t16770601-6-verdict26"></join>
+         
+               <p>After this was the Tryal of a 
+               <persName id="t16770601-6-defend9" type="defendantName">
+                     <rs id="t16770601-6-deflabel21" type="occupation">Midwife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16770601-6-defend9 t16770601-6-deflabel21"></join>
+                     <interp inst="t16770601-6-defend9" type="gender" value="female"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16770601-6-defloc22">St. Giles Cripplegate</placeName>
+                  <interp inst="t16770601-6-defloc22" type="placeName" value="St. Giles Cripplegate"></interp>
+                  <interp inst="t16770601-6-defloc22" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16770601-6-defend9 t16770601-6-defloc22"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16770601-6-defend10 t16770601-6-defloc22"></join>, who was Indicted by her self, and immediately after two very 
+               <persName id="t16770601-6-defend10" type="defendantName">aged poor women<interp inst="t16770601-6-defend10" type="gender" value="female"></interp>
+                  </persName>
+             being <rs id="t16770601-6-deflabel23" type="occupation">Searcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16770601-6-defend10 t16770601-6-deflabel23"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16770601-6-defend10 t16770601-6-deflabel23"></join>s towards Wapping Indicted jointly for <rs id="t16770601-6-off24" type="offenceDescription">
+                     <interp inst="t16770601-6-off24" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16770601-6-off24" type="offenceSubcategory" value="infanticide"></interp>
+               murdering a certain male Child by choaking the same with their hands, &amp;c.
+            </rs> Some account has already been given in Print of this business, but very false and imperfect, upon full Evidence it appeared only to be thus. This Midwife whether to satisfie her Husband (as she now alleadges) who was very Impatient to have a child, or whether it were to preserve her credit in her imploy which she thought somwhat prejudiced by the imputation of barrenness, I cannot say, but so it was she resolved to pretend to have a Child, in order hereunto by wearing a small Pillow, &amp;c. she had perswaded many of her neigh<xptr type="pageFacsimile" doc="16770601006"></xptr>bors that she was great, and about a week before her pretended Labour enquired very earnestly of a poor Woman if she could not help her to a young Child as soon almost as born, either alive or dead, For says she there is a Lady whose husband will not live with her because she never had a Child, and he is now in the Country and if I could get a Child, I should do a good office in rendering love between them, and get something my self, but this Woman as she now swore, refused not knowing how to assist her; whereupon it seems she applied her self to the two searchers of Whitechappel, who having gratified her extravagant  desires, on the <rs id="t16770601-6-cd25" type="crimeDate">18. of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16770601-6-off24 t16770601-6-cd25"></join> our Midwife pretends to fall in labour, but would not let any of the women touch her; and having dismist all save one in the Chamber, when she was got to bed, pretending great pains, her friend offering to put her hands into the Bed for better satisfying her self of her condition, she cried out Murder! Murder! Which raising a further suspicion in the woman, she did at last take out of the Bed a cold naked dead Child, which had, as appeared, been wrapt up in a Cloth, and seemed to have been a day or two old; whereupon she told the Prisoner this could be none of her child, who wickedly replyed with a horrid Curse and Imprecation on her self, if it were not her own child, born of her own body: However, Neighbours being called, several sober Matrons now deposed, that having searched her, they were confident she had no child at all, and that this was some other persons child, &amp;c. The Prisoner being demanded where she had the child, declared of the <xptr type="pageFacsimile" doc="16770601007"></xptr>two Searchers, which they being called to the Bar acknowledged, and that they brought it to her the same day, and had 20s. being promised 9l. more: That they had it on Saltpeter Bank. The Mother appeared in Court, and her Midwife, who testified it to be still born, and that they coming to search it, and seeing her a very poor woman, told her they would save her the charge of a Burial, &amp;c. But the Mother denyed she had any money for it: Upon full examination of all which no suspicion of murder appearing, but only a strange extravagant humour, both the Midwife and two Searchers were by the Jury brought in <rs id="t16770601-6-verdict26" type="verdictDescription">
+                     <interp inst="t16770601-6-verdict26" type="verdictCategory" value="notGuilty"></interp>
+               Not Guilty
+            </rs> of the several Indictments whereof they stood charged.</p>
+            </div1>

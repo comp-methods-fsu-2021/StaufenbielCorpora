@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16761213-1">
+               <interp inst="t16761213-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16761213-1" type="year" value="1676"></interp>
+               <interp inst="t16761213-1" type="uri" value="sessionsPapers/16761213"></interp>
+               <interp inst="t16761213-1" type="date" value="16761213"></interp>
+               <join result="criminalCharge" id="t16761213-1-off1-c1" targOrder="Y" targets="t16761213-1-defend1 t16761213-1-off1 t16761213-1-verdict2"></join>
+         
+               <p>THe first 
+               <persName id="t16761213-1-defend1" type="defendantName">person<interp inst="t16761213-1-defend1" type="gender" value="female"></interp>
+                  </persName>
+             tried, was for <rs id="t16761213-1-off1" type="offenceDescription">
+                     <interp inst="t16761213-1-off1" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16761213-1-off1" type="offenceSubcategory" value="infanticide"></interp>
+               making away her Bastard-childe
+            </rs>; but upon hearing the Evidence, and examination both of the Midwife and Coroner, it appeared tobe onely a Miscarriage; and by several circumstances there was reason to judge that she had not gone above sixteen weeks, and had never been quick, the abortive Infant being not above eight inches long, and no symptoms of Wounds or Bruises being to be seen, on the body to argue any violence used to it, he Jury thereupon thought fit to bring her in <rs id="t16761213-1-verdict2" type="verdictDescription">
+                     <interp inst="t16761213-1-verdict2" type="verdictCategory" value="notGuilty"></interp>
+               not guilty
+            </rs>.</p>
+            </div1>
