@@ -14,11 +14,11 @@
       <p>Included here will be three different texts that are distinct, but may shed light, at the very least, on male and female understandings of gynaecology.</p>
     </div>
     <div class="main">
-      <h1>Corpus A</h1>
+      <h1>First Corpus</h1>
       <p> <em>The Lavves Resolvtions of Womens Rights: Or, the Lavves Provision for Woemen</em></p>
-      <h1>Corpus B</h1>
+      <h1>Second Corpus</h1>
       <p> <em>A Directory for Midwives: Or, A Guide for Women: In Their Conception; Bearing; And Suckling their Children</em></p> 
-      <h1>Corpus C</h1>
+      <h1>Third Corpus</h1>
       <p>A collection of legal cases mentioning abortion, infanticide, and concealing a birth from the Old Bailey records</p>
     </div>
   </div>
