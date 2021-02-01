@@ -17,7 +17,7 @@
       <h1>First Corpus</h1>
       <p> <em>The Lavves Resolvtions of Womens Rights: Or, the Lavves Provision for Woemen</em> by Thomas Edgar (Lawyer) and Sir John Doddridge </p>
       <h1>Second Corpus</h1>
-      <p> <em>A Directory for Midwives: Or, A Guide for Women: In Their Conception; Bearing; And Suckling their Children</em> by Nicholas Culpeper </p> 
+      <p> <em>A Directory for Midwives: Or, A Guide for Women: In Their Conception; Bearing; And Suckling their Children Part I and Part II</em> by Nicholas Culpeper </p> 
       <h1>Third Corpus</h1>
       <p>A collection of legal cases mentioning abortion, infanticide, and concealing a birth from the Old Bailey records published by the <em> Old Bailey Proceedings</em></p>
     </div>
