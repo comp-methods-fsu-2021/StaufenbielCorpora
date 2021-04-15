@@ -1,25 +1,20 @@
 # Early Modern Perceptions of the Female Body
-<!DOCTYPE html>
-<html>
-<head>
- 
-  <meta charset="utf-8"/>
-</head>
-<body>
-  <div class="container">
-    <div class="nav">
-      <h2>The aim of this project is to search through early modern texts to find further understanding about early modern conceptions of female anatomy, specifically hints about the seven-celled uterus doctrine.</h2>
-      <p>The seven-celled uterus was the medical understanding that a woman's uterus had seven chambers instead of one. One of the first mentions of this doctrine comes from a Pseudo-Galenic text called <em>De Spermate</em>, but <em>De Spermate</em> itself has questionable origins. My overall project will ask: where <em>De Spermate</em> originated from when it became widely disseminated, which medical authors first began spreading the seven-cell idea, how popular the seven-cell doctrine was in elite medical circles, how popular the seven-cell uterus was in non-elite circles such as practicing midwives, when the doctrine was last used, why, how, and when it was replaced? My interest in this project lies in how such a large misconception regarding female anatomy endured for so long. I want to investigate what effects this untruth had on female patients, female practitioners and how the doctrine might have altered power-knowledge dynamics among individuals practicing medicine "professionally" or not. </p> 
-      <p>It is unlikely that texts will mention the doctrine outright. More likely it will appear in reference to Galen, Mondino de Luzzi, or Michael Scot/Michael Scotus/Michael the Scot or their various published works. Mondino and Scot were Medieval physicians that popularized the pseudo-Galenic theory and are mentioned by other famous anatomists such as Andreas Vesalius as propagators of the "myth."</p>
-      <p>Included here will be two different texts that are distinct, but may shed light, at the very least, on male and female understandings of gynaecology.</p>
-    </div>
-    <div class="main">
-      <h1>First Corpus</h1>
-      <p> <em>A Directory for Midwives: Or, A Guide for Women: In Their Conception; Bearing; And Suckling their Children Part I</em> by Nicholas Culpeper </p> 
-      <h1>Second Corpus</h1>
-      <p>A collection of legal cases mentioning abortion, infanticide, and concealed birth from the Old Bailey records published by the <em> Old Bailey Proceedings</em></p>
-    </div>
-  </div>
-</body>
-</html>
-  
+
+WOMEN ON TRIAL
+==============
+This data set uses <em>Old Bailey Proceedings</em> to look at how women's bodies were put on trial. The cases that are investigated on this site are all about women accused of infanticide between the years of 1674 and 1789. Each of the 191 cases in this study also references a female midwife who was called in as an expert witness by the court to testify. There are many questions that these court records allow historians of medicine, the body, embodiment, gender, law, social and cultural history to ask.
+
+QUESTIONS ASKED
+===============
+- How were indicted women treated by the male court system?
+- Why were so many women accused of infanticide?
+  - Was there a more likely explanation?
+  - What social anxieties contributed to the fears around women and child mortality?
+
+- How were the midwives deployed as witnesses?
+  - Were the midwives supposed to incriminate the accused?
+  - Were they supposed to support their fellow women?
+  - Did the midwives' testimony lead to a verdict or did it need to be supported by other male authority?
+- Did the midwives portray any specialized medical knowledge?
+
+- What do these proceedings tell us about society and gender in early modern London?
